@@ -1,0 +1,11 @@
+{
+  "name": "alonso-plugins",
+  "owner": { "name": "Alonso" },
+  "plugins": [
+    {
+      "name": "juicio-video",
+      "source": "./",
+      "description": "Juicio a ideas de video con defensor, fiscal, 3 peritos y un juez que entrega el video perfecto."
+    }
+  ]
+}
